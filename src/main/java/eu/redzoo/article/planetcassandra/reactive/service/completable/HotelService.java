@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package eu.redzoo.article.planetcassandra.reactive.example.completable;
+package eu.redzoo.article.planetcassandra.reactive.service.completable;
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayInputStream;
