@@ -33,7 +33,7 @@
 
 
 
-	<bean id="hotelService" class="eu.redzoo.article.planetcassandra.reactive.example.completable.HotelService">
+	<bean id="hotelService" class="eu.redzoo.article.planetcassandra.reactive.service.completable.HotelService">
 		<constructor-arg ref="hotelsDao" />
 	</bean>
 	

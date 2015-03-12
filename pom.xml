@@ -11,12 +11,12 @@
 		<dependency>
 			<groupId>net.oneandone.troilus</groupId>
 			<artifactId>troilus-core</artifactId>
-			<version>0.10</version>
+			<version>0.11</version>
 		</dependency>
 		<dependency>
 			<groupId>net.oneandone.reactive</groupId>
 			<artifactId>reactive-http</artifactId>
-			<version>0.8</version>
+			<version>0.10</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.ws.rs</groupId>
